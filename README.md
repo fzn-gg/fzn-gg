@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust for embedded systems, and BEAM languages
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: @fzn.gg on Bluesky
-- 😄 Pronouns: he/him
+- 😄 Pronouns: they/them/he/him
 
 <!---
 fzn-gg/fzn-gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
